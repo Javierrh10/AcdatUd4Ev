@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class GestionVideoteca {
     public static void main(String[] args) {
         // Esta es la dirección de tu "almacén" (Local)
-        String uri = "mongodb+srv://admin:Usuario.25.@mongodb.o7p1hl1.mongodb.net/?appName=MongoDB";
+        String uri = "mongodb+srv://admin:password@mongodb.o7p1hl1.mongodb.net/?appName=MongoDB";
 
         // Intentamos abrir el túnel
         try (MongoClient cliente = MongoClients.create(uri)) {
