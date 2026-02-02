@@ -17,8 +17,8 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite ges
 1. **Ver Catálogo**: Consulta estructurada de documentos en la colección `peliculas`.
 2. **Añadir Película**: Inserción de nuevos documentos con campos de texto y booleano.
 3. **Registrar Préstamo**: Almacenamiento de información en una segunda colección relacionada.
-4. **Actualización (Opcional)**: Modificación de campos específicos (disponibilidad).
-5. **Eliminación (Opcional)**: Borrado de documentos según criterio.
+4. **Actualización**: Modificación de campos específicos (disponibilidad).
+5. **Eliminación**: Borrado de documentos según criterio.
 
 ## ⚙️ Configuración
 Para ejecutar el proyecto, asegúrate de configurar tu URI de conexión en la clase `Main.java`:
@@ -27,4 +27,5 @@ Para ejecutar el proyecto, asegúrate de configurar tu URI de conexión en la cl
 
 ---
 Desarrollado por Javierrh10 - 2026
+
 
